@@ -1,3 +1,5 @@
-Whats up you guys
+<h2>Day 1</h2>
 
-asddaskdjasjdasosd
+<audio controls>
+    <source src="songs/wth-is-this-man.mp3" type="audio/mpeg">
+</audio>
